@@ -16,7 +16,7 @@ public class Main {
      */
     public static void main(String[] args) {
         //declaring variables
-        String TEXT_FILE_PATH = "WordList.txt";
+        String TEXT_FILE_PATH = "/Users/tanaynagar/eclipse-workspace/CS 300/HangmanGame/Hangman-Game/WordList.txt";
         String wordToGuess = null;
         ArrayList<String> WordList = null;
         ArrayList<Character> playerGuesses = null;
